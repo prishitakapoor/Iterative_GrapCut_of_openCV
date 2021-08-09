@@ -11,6 +11,16 @@ This algorithm uses a rectangle made by the user to identify the foreground item
 5. Remove the background using GrabCut algorithm.
 6. Return to step 4 or end.
 
+# Requirements
+1.pillow
+2.numpy
+3.scipy
+4.notebook
+5.matplotlib
+6.ipython
+7.cv2
+
+
 ## Video demos
 
 ### Example with one iteration to correct the first pass of the algorithm:
